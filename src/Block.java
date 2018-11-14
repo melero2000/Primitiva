@@ -53,7 +53,7 @@ public class Block {
 		return result;
 	}
 
-	public void getNumber(Block numbers) {
-		
+	public int[] getNumber() {
+		return numbers;		
 	}
 }

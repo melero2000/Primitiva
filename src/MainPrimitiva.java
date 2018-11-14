@@ -13,6 +13,9 @@ public class MainPrimitiva {
 		Block b3 = new Block (5,10,36,58,51,69);
 		System.out.println(b2);
 		System.out.println(b3);
+		
+		Ticket t = new Ticket(5);
+		System.out.println(t);
 	}
 
 }
